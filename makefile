@@ -1,4 +1,4 @@
-main: chessviz.cpp
+main: main.cpp
 	g++ -g -Wall -0 main main .cpp
 
 run:
