@@ -35,4 +35,5 @@ int main()
 {
     HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
     chessviz();
+    return 0;
 }
